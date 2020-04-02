@@ -1,0 +1,1 @@
+web: gunicorn: AMOA_py_Project.wsgi
