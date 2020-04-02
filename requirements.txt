@@ -1,21 +1,22 @@
-asgiref==3.2.3    open a psql shell to the database
-certifi==2019.11.28anage heroku redis instances
-chardet==3.0.4    list available regions for deployment
-Django==3.0.2     display the releases for an app
-django-crispy-forms==1.9.0eviewapps in pipelines
-django-tables2-bootstrap4==2.0.0b5ocess inside a Heroku dyno
-gunicorn==20.0.4  OAuth sessions
-idna==2.9         manage heroku private spaces
-inflection==0.3.1 status of the Heroku platform
-joblib==0.14.1    manage teams
-more-itertools==8.2.0ate the Heroku CLI
-numpy==1.18.1     list webhooks on an app
+asgiref==3.2.3
+certifi==2019.11.28
+chardet==3.0.4
+Django==3.0.2
+django-crispy-forms==1.9.0
+django-tables2-bootstrap4==2.0.0b5
+gunicorn==20.0.4
+idna==2.9
+inflection==0.3.1
+joblib==0.14.1
+more-itertools==8.2.0
+numpy==1.18.1
 pandas==1.0.2
 Pillow==7.0.0
-python-dateutil==2.8.1top\AMOA_py_Project>heroku login
-pytz==2019.3s any key to open up the browser to login or q to exit:
-Quandl==3.5.0er to https://cli-auth.heroku.com/auth/cli/browser/eaa6ef3b-123a-46b1-8ffc-2551b3a5f387
-requests==2.23.0for login...
+python-dateutil==2.8.1
+python-dotenv==0.12.0
+pytz==2019.3
+Quandl==3.5.0
+requests==2.23.0
 scikit-learn==0.22.2.post1
 scipy==1.4.1
 six==1.14.0

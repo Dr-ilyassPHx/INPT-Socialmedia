@@ -16,6 +16,10 @@ import os
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
+   
+     
+
+
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
@@ -127,3 +131,5 @@ MEDIA_URL ='/media/'
 CRISPY_TEMPLATES_PACK = 'bootstrap4'
 LOGIN_REDIRECT_URL ='base-home'
 LOGIN_URL = 'login'
+
+
